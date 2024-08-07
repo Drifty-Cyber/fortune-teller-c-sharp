@@ -1,0 +1,14 @@
+C:\Users\Drifty\Desktop\C#\new\fortune teller\bin\Debug\net8.0\fortune teller.exe
+C:\Users\Drifty\Desktop\C#\new\fortune teller\bin\Debug\net8.0\fortune teller.deps.json
+C:\Users\Drifty\Desktop\C#\new\fortune teller\bin\Debug\net8.0\fortune teller.runtimeconfig.json
+C:\Users\Drifty\Desktop\C#\new\fortune teller\bin\Debug\net8.0\fortune teller.dll
+C:\Users\Drifty\Desktop\C#\new\fortune teller\bin\Debug\net8.0\fortune teller.pdb
+C:\Users\Drifty\Desktop\C#\new\fortune teller\obj\Debug\net8.0\fortune teller.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Drifty\Desktop\C#\new\fortune teller\obj\Debug\net8.0\fortune teller.AssemblyInfoInputs.cache
+C:\Users\Drifty\Desktop\C#\new\fortune teller\obj\Debug\net8.0\fortune teller.AssemblyInfo.cs
+C:\Users\Drifty\Desktop\C#\new\fortune teller\obj\Debug\net8.0\fortune teller.csproj.CoreCompileInputs.cache
+C:\Users\Drifty\Desktop\C#\new\fortune teller\obj\Debug\net8.0\fortune teller.dll
+C:\Users\Drifty\Desktop\C#\new\fortune teller\obj\Debug\net8.0\refint\fortune teller.dll
+C:\Users\Drifty\Desktop\C#\new\fortune teller\obj\Debug\net8.0\fortune teller.pdb
+C:\Users\Drifty\Desktop\C#\new\fortune teller\obj\Debug\net8.0\fortune teller.genruntimeconfig.cache
+C:\Users\Drifty\Desktop\C#\new\fortune teller\obj\Debug\net8.0\ref\fortune teller.dll
